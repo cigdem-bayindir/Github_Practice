@@ -4,5 +4,6 @@ public class C01 {
         System.out.println("çiğdem branchi oluştu");
         System.out.println("çiğdem branchi tekrar oluştu");
         System.out.println("Lütfiyeye selamlar");
+        System.out.println("Github seni yenicem");
     }
 }
